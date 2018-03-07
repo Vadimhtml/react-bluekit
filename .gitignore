@@ -4,3 +4,4 @@ coverage
 lib
 componentsIndex.js
 node_modules
+.idea
